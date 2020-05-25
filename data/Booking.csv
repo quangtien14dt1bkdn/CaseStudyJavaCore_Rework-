@@ -1,0 +1,3 @@
+[ id,  nameCustomer, idCard,  birthday,  gender,  phoneNumber,  email,  typeCustomer,  address, idService, nameService, areaUse, rentalCost, maxNumberOfPeople, typeRent]
+03a98a95cc464a14af9161a37ce819fa,Tong Quan Tien,123 121 121,12/11/1996,Male,121212121,whynotme1211@gmail.com,Diamond,12121212121,ea421ffe939e48cf9af89f4c60cd989b,Luxury Name,120.0,0.0,10,Full Night
+03a98a95cc464a14af9161a37ce819fa,Tong Quan Tien,123 121 121,12/11/1996,Male,121212121,whynotme1211@gmail.com,Diamond,12121212121,505e3b1c82b04b11a1089b3d13403f37,Fast Service,100.0,1000.0,14,Full Day
